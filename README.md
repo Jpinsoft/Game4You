@@ -17,14 +17,14 @@ Do you want to make original surprise to your family or friends? Game4You 1.1 is
 - Microsoft XNA Framework Redistributable 4.0 
 
 
-## Screenshots - Create game (Quick mode)
-<picture>
+## Screenshot - Create game (Quick mode)
+<p align="center">
 <img alt="CreateGame" width="480" src="https://github.com/Jpinsoft/Game4You/assets/28184960/33cd9c92-d0d9-4bc1-acbc-0d996eb0571d">
-</picture>
+</p>
 
 ## Video - Create game (Quick mode)
+<p align="center">
 <a href="http://youtu.be/xq9-HpgJ5a0">
- <picture>
   <img alt="Game4You video" width="480" src="https://github.com/Jpinsoft/Game4You/assets/28184960/f2f0bbaa-610a-473e-8591-3a9d2b44ee28">
- </picture>
 </a>
+</p>
